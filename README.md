@@ -3,16 +3,19 @@ This repo contains the source code for Gazebo based mobile robot using RANSAC li
 
 
 ## Setup
-### 1. Clone the repo
+### 1. Install Turtlebot3's Environment
+[TurtleBot3 Quick Start Guide](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/)
+
+### 2. Clone the repo
 ```
 git clone https://github.com/PiusLim373/robust_docking.git
 git submodule update --init --recursive
 ```
-### 2. Build
+### 3. Build
 ```
 colcon build --symlink-install
 ```
-### 3. Source the built environment, and export Gazebo resources path
+### 4. Source the built environment, and export Gazebo resources path
 ```
 source install/setup.bash
 export GAZEBO_MODEL_PATH=$GAZEBO_MODEL_PATH:$(ros2 pkg prefix master_controller)/share
