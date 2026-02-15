@@ -1,0 +1,46 @@
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771131937.106137189] [master_controller_node]: Robot true pose from Gazebo: (-0.25853, -0.26124), Offset from corner: 0.36754 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771131937.107633900] [master_controller_node]: Robot true yaw from Gazebo: 50.07812 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132022.407953735] [master_controller_node]: Robot true pose from Gazebo: (-0.27293, -0.27822), Offset from corner: 0.38973 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132022.408999688] [master_controller_node]: Robot true yaw from Gazebo: 49.88943 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132100.879069705] [master_controller_node]: Robot true pose from Gazebo: (-0.21925, -0.22576), Offset from corner: 0.31470 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132100.880697864] [master_controller_node]: Robot true yaw from Gazebo: 47.84581 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132201.652312966] [master_controller_node]: Robot true pose from Gazebo: (-0.27357, -0.29137), Offset from corner: 0.39966 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132201.653737676] [master_controller_node]: Robot true yaw from Gazebo: 48.43563 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132301.665774435] [master_controller_node]: Robot true pose from Gazebo: (-0.24544, -0.24379), Offset from corner: 0.34594 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132301.667175121] [master_controller_node]: Robot true yaw from Gazebo: 43.21767 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132382.372218621] [master_controller_node]: Robot true pose from Gazebo: (-0.24419, -0.23806), Offset from corner: 0.34103 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132382.373899515] [master_controller_node]: Robot true yaw from Gazebo: 41.72788 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132456.011678614] [master_controller_node]: Robot true pose from Gazebo: (-0.28192, -0.28422), Offset from corner: 0.40032 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132456.013230511] [master_controller_node]: Robot true yaw from Gazebo: 48.03754 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132534.256124677] [master_controller_node]: Robot true pose from Gazebo: (-0.25317, -0.21875), Offset from corner: 0.33459 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132534.257729585] [master_controller_node]: Robot true yaw from Gazebo: 43.05832 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132613.171584608] [master_controller_node]: Robot true pose from Gazebo: (-0.27198, -0.27020), Offset from corner: 0.38339 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132613.172829583] [master_controller_node]: Robot true yaw from Gazebo: 41.08680 degrees, target orientation: 45.0 degrees
+
+============================== Benchmarking completed ==============================
+[master_controller_node.py-3] [WARN] [1771132698.901832805] [master_controller_node]: Robot true pose from Gazebo: (-0.24770, -0.23925), Offset from corner: 0.34438 meters, target offset: 0.40 meters
+[master_controller_node.py-3] [WARN] [1771132698.903805474] [master_controller_node]: Robot true yaw from Gazebo: 52.24093 degrees, target orientation: 45.0 degrees
+
+
+Mean Offset
+≈ 0.3621 m
+
+Mean Yaw
+≈ 46.96°

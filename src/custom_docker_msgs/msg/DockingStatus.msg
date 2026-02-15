@@ -1,0 +1,2 @@
+string docking_id
+string status

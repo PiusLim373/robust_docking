@@ -1,0 +1,16 @@
+[submodule "src/turtlebot/turtlebot3_msgs"]
+	path = src/turtlebot/turtlebot3_msgs
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+	branch = humble
+[submodule "src/turtlebot/turtlebot3"]
+	path = src/turtlebot/turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+	branch = humble
+[submodule "src/turtlebot/turtlebot3_simulations"]
+	path = src/turtlebot/turtlebot3_simulations
+	url = https://github.com/PiusLim373/turtlebot3_simulations.git
+	branch = certis_interview
+[submodule "src/turtlebot/DynamixelSDK"]
+	path = src/turtlebot/DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+	branch = humble
