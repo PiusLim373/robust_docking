@@ -87,7 +87,7 @@ Average error: ≈ +0.0069 m
 Average yaw: ≈ 46.43°
 
 Average error: ≈ +1.43°
-### With Disturbances
+### With Disturbances (Noisy Odom + Scan Corrupt + Scan Dropout)
 | Run | X (m)     | Y (m)     | Offset (m) | Offset Error (m) | Yaw (°)  | Yaw Error (°) |
 |-----|----------|----------|------------|------------------|----------|--------------|
 | 1   | -0.25853 | -0.26124 | 0.36754    | -0.03246         | 50.07812 | +5.07812     |
